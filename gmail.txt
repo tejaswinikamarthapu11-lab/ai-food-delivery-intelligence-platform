@@ -1,0 +1,121 @@
+<h1 style="color:#2E86C1;">📊 AI Food Delivery Intelligence Report</h1>
+
+<p>Hello Team,</p>
+
+<p>
+Please find the latest AI-powered operational analytics report for food delivery performance monitoring and business intelligence analysis.
+This report includes delivery efficiency metrics, customer experience insights, anomaly detection, operational risks, and AI-generated recommendations.
+</p>
+
+<hr>
+
+<h2 style="color:#1F618D;"> Delivery Performance Summary</h2>
+
+<ul>
+  <li><strong>Order Value:</strong> ₹{{ $('Code in JavaScript').item.json.orderValue }}</li>
+
+  <li><strong>Final Amount Paid:</strong> ₹{{ $('Code in JavaScript').item.json.finalAmount }}</li>
+
+  <li><strong>Delivery Status:</strong> {{ $('Code in JavaScript').item.json.deliveryStatus }}</li>
+
+  <li><strong>Delivery Delay:</strong> {{ $('Code in JavaScript').item.json.delayMinutes }} minutes</li>
+
+  <li><strong>Delivery Efficiency Score:</strong> {{ $('Code in JavaScript').item.json.efficiency }}</li>
+
+  <li><strong>Business Performance Score:</strong> {{ $('Code in JavaScript').item.json.businessScore }}/100</li>
+
+  <li><strong>Performance Status:</strong> {{ $('Code in JavaScript').item.json.performanceStatus }}</li>
+</ul>
+
+<hr>
+
+<h2 style="color:#1F618D;"> Customer & Restaurant Experience</h2>
+
+<ul>
+  <li><strong>Customer Rating:</strong> {{ $('Code in JavaScript').item.json.customerRating }} / 5</li>
+
+  <li><strong>Restaurant Rating:</strong> {{ $('Code in JavaScript').item.json.restaurantRating }} / 5</li>
+
+  <li><strong>Tip Amount:</strong> ₹{{ $('Code in JavaScript').item.json.tip }}</li>
+
+  <li><strong>Discount Applied:</strong> ₹{{ $('Code in JavaScript').item.json.discount }}</li>
+</ul>
+
+<hr>
+
+<h2 style="color:#1F618D;"> Operational Conditions</h2>
+
+<ul>
+  <li><strong>Traffic Severity Score:</strong> {{ $('Code in JavaScript').item.json.trafficScore }}</li>
+
+  <li><strong>Weather Severity Score:</strong> {{ $('Code in JavaScript').item.json.weatherScore }}</li>
+
+  <li><strong>Festival / Weekend Impact:</strong> {{ $('Code in JavaScript').item.json.festival }}</li>
+</ul>
+
+<hr>
+
+<h2 style="color:#C0392B;">Risk & Alert Analysis</h2>
+
+<ul>
+  <li><strong>Risk Level:</strong> {{ $('Code in JavaScript').item.json.riskLevel }}</li>
+
+  <li><strong>Priority Level:</strong> {{ $('Code in JavaScript').item.json.priorityLevel }}</li>
+</ul>
+
+<h3 style="color:#922B21;">Detected Operational Anomalies</h3>
+
+<p>
+{{ $('Code in JavaScript').item.json.anomalies }}
+</p>
+
+<hr>
+
+<h2 style="color:#7D3C98;"> Executive Summary</h2>
+
+<p>
+{{ $('Code in JavaScript').item.json.executiveSummary }}
+</p>
+
+<hr>
+
+<h2 style="color:#117A65;"> AI Operational Insights</h2>
+
+<p>
+The AI analytics engine evaluated delivery performance, customer experience, operational efficiency, environmental conditions, and refund risks to identify critical business patterns and operational improvement opportunities.
+</p>
+
+<ul>
+  <li>Monitor delivery delays during high traffic conditions.</li>
+
+  <li>Improve route optimization for operational efficiency.</li>
+
+  <li>Track customer satisfaction trends proactively.</li>
+
+  <li>Reduce refund-related operational risks.</li>
+
+  <li>Strengthen delivery monitoring during festival and weekend demand spikes.</li>
+</ul>
+
+<hr>
+
+<h2 style="color:#117A65;"> AI Recommendations</h2>
+
+<p>
+{{ $('Code in JavaScript').item.json.recommendations }}
+</p>
+
+<hr>
+
+<h2 style="color:#2E86C1;"> AI Business Intelligence Status</h2>
+
+<p>
+This report was automatically generated using AI-powered delivery analytics, anomaly detection, operational intelligence monitoring, and automated business reporting workflows.
+</p>
+
+<br>
+
+<p>
+Regards,<br>
+<b>AI Food Delivery Intelligence System</b>
+</p>
