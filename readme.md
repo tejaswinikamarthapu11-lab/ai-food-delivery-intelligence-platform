@@ -1,40 +1,47 @@
-# AI Food Delivery Intelligence Platform
+# 🚀 AI Food Delivery Intelligence Platform
 
-## Overview
-An AI-powered food delivery analytics and automation platform designed to monitor delivery operations, detect anomalies, generate AI-driven recommendations, and automate reporting workflows.
+> An AI-powered analytics and automation platform designed to monitor food delivery operations, detect anomalies, generate business intelligence insights, and automate reporting workflows in real time.
 
----
 
-## Features
-- Real-time delivery analytics
-- AI anomaly detection
-- Automated Gmail reporting
-- Business performance scoring
-- Interactive dashboards
-- Traffic and weather analysis
-- Operational risk monitoring
+# 📌 Project Overview
 
----
+The **AI Food Delivery Intelligence Platform** is a smart analytics automation system developed to improve operational visibility and decision-making for food delivery businesses.
 
-## Tech Stack
-- Google Sheets
-- JavaScript
-- Groq LLM
-- Gmail Automation
-- Looker Studio
-- Data Analytics
+The platform processes delivery and customer data in real time using automated workflows, anomaly detection logic, AI-powered recommendations, and business intelligence dashboards.
 
----
+This project demonstrates practical applications of:
 
-## Workflow Architecture
+- 📊 Data Analytics
+- 🤖 Artificial Intelligence
+- ⚡ Workflow Automation
+- 📈 Business Intelligence
+- 📧 Automated Reporting
+- 🧠 Operational Intelligence Systems
 
-Google Sheets → JavaScript → Groq AI → Gmail → Dashboard
 
----
+# 🎯 Project Objectives
 
-## Files
-- Food_Delivery.xlsx
-- json_script.js
-- gmail.txt
-- n8n workflow.png
-- sample_output.txt
+The primary goal of this project is to:
+
+✅ Monitor delivery operations in real time  
+✅ Detect operational anomalies automatically  
+✅ Analyze customer satisfaction trends  
+✅ Identify refund and delay risks  
+✅ Generate AI-powered business recommendations  
+✅ Automate operational reporting workflows  
+✅ Visualize KPIs using interactive dashboards  
+
+
+
+# 🏗️ System Architecture
+
+
+Google Sheets
+      ↓
+JavaScript Analytics Engine
+      ↓
+AI Processing (Groq LLM)
+      ↓
+Automated Gmail Reporting
+      ↓
+Looker Studio Dashboard
